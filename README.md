@@ -16,6 +16,4 @@ Open a terminal, change into `vendor/glad` and execute:
 python main.py --generator=c --extensions=GL_EXT_framebuffer_multisample,GL_EXT_texture_filter_anisotropic --out-path=
 ```
 
-Download and install [CMake](https://cmake.org/), and build the project with the `CMakeLists.txt` of the project.
-
-### GLAD
+Download and install [CMake](https://cmake.org/). Build the project with the `CMakeLists.txt` of the project.
