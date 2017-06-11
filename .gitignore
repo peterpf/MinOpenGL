@@ -1,9 +1,7 @@
-CMakeCache.txt
-CMakeFiles
+Build/
+\.idea/
+MyApp/vendor/
+
 CMakeScripts
-Testing
 Makefile
-cmake_install.cmake
 install_manifest.txt
-compile_commands.json
-CTestTestfile.cmake
