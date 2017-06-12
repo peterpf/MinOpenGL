@@ -1,4 +1,4 @@
-# MinOpengl
+# MinOpenGL
 
 Minimalistic setup to get started with OpenGL.
 

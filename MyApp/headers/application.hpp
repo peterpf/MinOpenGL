@@ -3,7 +3,7 @@
 #pragma once
 
 // System Headers
-#include <glad\glad.h>
+#include <glad/glad.h>
 
 // Constants
 const int mWidth = 1280;

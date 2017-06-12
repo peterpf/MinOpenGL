@@ -1,7 +1,3 @@
-Build/
+Build/*
 \.idea/
 MyApp/vendor/
-
-CMakeScripts
-Makefile
-install_manifest.txt
