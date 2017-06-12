@@ -4,9 +4,10 @@
 
 // System Headers
 #include <glad/glad.h>
+#include <GLFW/glfw3.h>
 
 // Constants
-const int mWidth = 1280;
-const int mHeight = 800;
+const int mWidth = 800;
+const int mHeight = 600;
 
 #endif
