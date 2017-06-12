@@ -18,11 +18,11 @@ endif()
 
 include_directories (
     ${APPLICATION}/headers/
-	${APPLICATION}/vendor/glad/include/
+	${APPLICATION}/vendor/glad_files/include/
     ${APPLICATION}/vendor/glfw/include/
     )
 
-file (GLOB VENDORS_SOURCES ${APPLICATION}/vendor/glad/src/glad.c)
+file (GLOB VENDORS_SOURCES ${APPLICATION}/vendor/glad_files/src/glad.c)
 file (GLOB PROJECT_HEADERS ${APPLICATION}/headers/*.hpp)
 file (GLOB PROJECT_SOURCES ${APPLICATION}/src/*.cpp)
 file (GLOB PROJECT_CONFIGS 

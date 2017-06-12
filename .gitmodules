@@ -1,6 +1,6 @@
-[submodule "MyApp/vendor/glad"]
-	path = MyApp/vendor/glad
-	url = https://github.com/Dav1dde/glad.git
 [submodule "MyApp/vendor/glfw"]
 	path = MyApp/vendor/glfw
 	url = https://github.com/glfw/glfw.git
+[submodule "MyApp/vendor/glad"]
+	path = MyApp/vendor/glad
+	url = https://github.com/Dav1dde/glad.git
